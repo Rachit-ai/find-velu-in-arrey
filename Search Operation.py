@@ -1,3 +1,4 @@
+# Search Operation
 index = -1
 for i in range(len(arr)):
     if arr[i] == key:
